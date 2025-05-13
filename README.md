@@ -12,7 +12,7 @@
 | UZH        | **Cognitio** (Memory Trainer)     | Department of Psychology               | Cognitive training for students      | Web-based memory game         | Lead            | Documentation limited (prototype) |
 | UZH        | **Peer Review Assistant**         | Department of Education                | Automated essay feedback             | Browser-based feedback tool   | Collaborator    | Documentation limited (educational research) |
 |ZHAW| **myScripting**| School of Law and Management | Teacher-support tool for education scripts| Web-based tool for educational design | Partnershaft with PHZH | [ZHAW project description](https://www.zhaw.ch/en/research/project/76711#keyData)  [myScripting tool](https://myscripting.sml.zhaw.ch) |
-
+|ETHZ|**Ethel**| Rectorate and AI center | Virtual teaching assistant | Reference-based chatbot, quickpoll, homework feedback | Partner with EPFL | [Ethel project](https://ethz.ch/en/the-eth-zurich/education/ai-in-education/projects/ethel.html)|
 
 
 
