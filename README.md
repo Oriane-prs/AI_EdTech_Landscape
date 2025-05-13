@@ -14,7 +14,26 @@
 | **ZHAW** (CH) | **Learning Copilot** (2024)                                        | School of Engineering – Institute of Data Analysis & Process Design (IDP); Centre for AI (CAI) | AI tutoring assistant for university courses        | **LLM-based learning assistant** (uses ChatGPT-like models on lecture transcripts, papers, etc.) to help students understand lectures and prep for exams; pilot evaluated in ZHAW courses                                   | None (internal)                                                                    |[Learning Copilot project](https://www.zhaw.ch/en/research/project/74293#:~:text=We%20develop%20a%20Learning%20Copilot,effectiveness%20in%20two%20ZHAW%20courses)|
 |ETHZ|**Ethel**| Rectorate and AI center | Virtual teaching assistant | Reference-based chatbot, quickpoll, homework feedback | Partner with EPFL | [Ethel project](https://ethz.ch/en/the-eth-zurich/education/ai-in-education/projects/ethel.html)|
 
-## Reflections on ChatGPT findings
+
+# AI EdTech in Bern
+
+| University | Project Title | Department / Faculty | Application Area | Practical Output | Other Partners? | Source |
+|------------|---------------|----------------------|------------------|------------------|------------------|--------|
+| **Bern University of Applied Sciences (BFH)** | [Evaluating AI-Driven Dialogues in Higher Education: An Experimental Study Using The Brian Platform](https://www.mdpi.com/2227-7102/13/10/987) | Virtual Academy, BFH | AI chatbot tutors for university coursework | “Brian” platform’s AI tutor tool integrated into BFH courses; study on learning outcomes with AI dialogues | Brian AG | [Link](https://www.mdpi.com/2227-7102/13/10/987) |
+| **Bern University of Applied Sciences (BFH)** | [Development and Evaluation of an Educational Chatbot for Promoting Deepfake Literacy](https://www.mdpi.com/2071-1050/15/17/13017) | Institute Digital Technology Management, BFH | Digital literacy training via AI chatbot | Research-based framework for AI-driven “deepfake literacy” tool (PoC phase) | PH St. Gallen (PHSG) | [Link](https://www.mdpi.com/2071-1050/15/17/13017) |
+| **University of Bern** | [ChatGPT and Take-home Exams: Responsible Integration of Generative AI in Teaching](https://www.mdpi.com/2227-7102/13/10/983) | Institute of Sport Science, University of Bern | Assessment design with generative AI | New take-home exam formats allowing ChatGPT use; educator guidelines | BFH; FFHS | [Link](https://www.mdpi.com/2227-7102/13/10/983) |
+| **Bern University of Applied Sciences (BFH)** | [Conversational AI-Driven Coach: Personalized Digital Coach for Student Performance](https://www.mdpi.com/2227-7102/13/9/913) | Institute Digital Technology Management, BFH | AI coaching for study skills and motivation | LLM-powered digital coach for learning engagement; tested dialogue strategies | Univ. of St. Gallen; Univ. of Pennsylvania | [Link](https://www.mdpi.com/2227-7102/13/9/913) |
+| **Pädagogische Hochschule Bern (PHBern)** | [Projekt Xara (KI-Avatars for Communication Training)](https://www.phbern.ch/projekt-xara) | Institute for Special Education, PHBern | Communication skills training | “Xara” XR Dialogue Trainer using AI avatars for teacher training | afca ag | [Link](https://www.phbern.ch/projekt-xara) |
+| **Bern University of Applied Sciences (BFH)** | [ArgueMate: An AI Debating Agent for Learning Through Argumentation](https://www.mdpi.com/2227-7102/14/3/263) | Institute Digital Technology Management, BFH | AI debate partner to train critical thinking | GPT-4-powered debate agent; web app for classroom use | EPFL (CHILI Lab) | [Link](https://www.mdpi.com/2227-7102/14/3/263) |
+| **Bern University of Applied Sciences (BFH)** | [LLM-based Training Using Personalized Case Examples](https://www.mdpi.com/2227-7102/13/10/1010) | Institute for Patient-Centered Digital Health, BFH | Adaptive case-based learning | LLM-based “learning companion” for custom scenarios | Univ. of Bern; FFHS; FernUni Schweiz | [Link](https://www.mdpi.com/2227-7102/13/10/1010) |
+| **Bern University of Applied Sciences (BFH)** | [Conversational Agent for Reflective Writing](https://www.mdpi.com/2227-7102/14/4/406) | Virtual Academy & Inst. Digital Tech. Mgmt, BFH | AI assistant for reflective writing | Chatbot-based tutor that guides student reflection tasks | EPFL | [Link](https://www.mdpi.com/2227-7102/14/4/406) |
+| **Bern University of Applied Sciences (BFH)** | [Be(e)Chat: Local Generative AI Chatbot Service for Education](https://www.bfh.ch/de/aktuell/news/2024/maerz/be-e-chat/) | Institute for Patient-Centered Digital Health, BFH | Privacy-compliant AI assistant | Local LLM-based chatbot platform for HEI in Bern; guidelines for use | EPFL; University of Bern (Digital Humanities) | [Link](https://www.bfh.ch/de/aktuell/news/2024/maerz/be-e-chat/) |
+
+
+
+
+
+# Reflections on ChatGPT findings
 [First conversation used to find applications](https://chatgpt.com/share/68234ddf-31c4-8009-b727-93b102fd100b)
 
 [Second conversation to find applications][]
