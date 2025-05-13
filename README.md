@@ -1,6 +1,7 @@
 # AI EdTech in Zurich
 
-[First conversation used to find applications](https://chatgpt.com/share/68234ddf-31c4-8009-b727-93b102fd100b)
+
+
 
 |University| Project Title   | Department / Faculty                       | Application Area                                           | Practical Output                                           | Other partners? | Source |
 |------|----------------|---------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------|--------|
@@ -8,10 +9,15 @@
 |UZH| **EducationAI**  | DSI / Institute of Education & Informatics | Adaptive teaching, feedback automation           | ML-driven prototype tools for personalized instruction | Lead            | [Link](https://www.dsi.uzh.ch/en/communities/education.html) |
 |UZH|**AIdviser: AI-tutor**|Department of Finance | AI chatbot acting as a virtual tutor| Chatbot integrated in KlickerUZH| Lead | [AIdviser:AI-Tutor](https://www.df.uzh.ch/en/department/teaching-center/projects-and-innovation/aidviser.html)|
 |ZHAW| **myScripting**| School of Law and Management | Teacher-support tool for education scripts| Web-based tool for educational design | Partnershaft with PHZH | [ZHAW project description](https://www.zhaw.ch/en/research/project/76711#keyData)  [myScripting tool](https://myscripting.sml.zhaw.ch) |
+| ZHAW       | **MentorMate**                                       | School of Management and Law; School of Engineering                           | Personalized virtual tutoring (AI chatbots for courses)                     | Platform to create AI chatbot assistants; integrated learning analytics                 | None                                                |[Transformative Education Fund](https://www.zhaw.ch/en/focus-topics/zhaw-digital/education/tef#:~:text=“GRADE,ultimately%20be%20used%20by%20teachers) NB: almost no information at the moment|
+| ZHAW       | **GRADE-ASSIST**                                     | School of Management and Law; School of Life Sciences and Facility Management | Automated grading of written assignments in higher education                | AI prototype for assisting marking of student work (written assessments)                | None                                                |[Transformative Education Fund](https://www.zhaw.ch/en/focus-topics/zhaw-digital/education/tef#:~:text=“GRADE,ultimately%20be%20used%20by%20teachers) NB: almost no information at the moment|
 |ETHZ|**Ethel**| Rectorate and AI center | Virtual teaching assistant | Reference-based chatbot, quickpoll, homework feedback | Partner with EPFL | [Ethel project](https://ethz.ch/en/the-eth-zurich/education/ai-in-education/projects/ethel.html)|
 
+## Reflections on ChatGPT findings
+[First conversation used to find applications](https://chatgpt.com/share/68234ddf-31c4-8009-b727-93b102fd100b)
+[Second conversation to find applications][]
 
-
+* Misunderstands when the project is about digital literacy or a tool that was used only for the purpose of a research study
 
 
 # Excluded project that ChatGPT found
