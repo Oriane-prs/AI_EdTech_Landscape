@@ -38,6 +38,7 @@
 [Second conversation to find applications][]
 
 * Misunderstands when the project is about digital literacy or a tool that was used only for the purpose of a research study
+* Works better when the projects are clearly presented in a webpage (E.g. Belearn)
 
 
 # Excluded project that ChatGPT found
