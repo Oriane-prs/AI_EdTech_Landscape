@@ -1,5 +1,7 @@
 # AI EdTech in Zurich
 
+Missing in UZH: AI-grading UZH 
+
 |University| Project Title   | Department / Faculty                       | Application Area                                           | Practical Output                                           | Other partners? | Source |
 |------|----------------|---------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------|--------|
 |UZH| **KlickerUZH**  | Dept. of Banking & Finance (UZH)           | Interactive audience-response (gamified quizzes, microlearning) | Web/mobile classroom learning platform (clicker app)       | None            | [Klicker on PlayStore](https://play.google.com/store/apps/details?id=ch.uzh.bf.klicker.pwa&hl=en_US) |
